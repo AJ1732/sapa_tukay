@@ -1,9 +1,10 @@
 import './App.css'
+import Header from './sections/Header'
 
 function App() {
   return (
     <>
-      <h1>Hello</h1>
+      <Header />
     </>
   )
 }
