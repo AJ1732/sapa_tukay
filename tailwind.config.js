@@ -19,6 +19,7 @@ export default {
         'gray300': '#2E3545',
         'gray700': '#272D37',
         'bg-black': '#222222',
+        'border-gray': '#BABABA',
         'text-black': '#111111',
         'text-fade-white': '#FEFEF5',
       },

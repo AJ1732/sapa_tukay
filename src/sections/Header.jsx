@@ -4,9 +4,10 @@ import Hero from './Header/Hero'
 
 const Header = () => {
   return (
-    <header className='w-full px-8 | bg-bg-black  | '>
-      <div className='max-w-7xl m-auto '>
+    <header className='w-full | bg-bg-black  | '>
+      <div className=''>
         <Navbar />
+        <hr />
         <Hero />
       </div>
     </header>
