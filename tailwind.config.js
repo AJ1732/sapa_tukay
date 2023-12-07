@@ -9,6 +9,9 @@ export default {
       sans: ['Inter', 'sans-serif'],
       serif: ['Merriweather', 'serif'],
     },
+    fontSize: {
+      head: ['3.25rem', '3.75rem'],
+    },
     extend: {
       colors: {
         'primary': '#215056',
@@ -23,6 +26,8 @@ export default {
         'text-black': '#111111',
         'text-fade-white': '#FEFEF5',
       },
+      
+      
       spacing: {
         '8xl': '96rem',
         '9xl': '128rem',

@@ -6,7 +6,7 @@ import Button from '../../components/Buttons/Button'
 
 const Navbar = () => {
   return (
-    <nav className='max-w-7xl m-auto px-8 | flex items-end justify-between | text-white | py-5'>
+    <nav className='max-w-7xl m-auto px-8 py-5 | flex items-end justify-between '>
       <Logo />
       <NavLinks />
       <Button text="Urgent tukay" />

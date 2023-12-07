@@ -2,7 +2,7 @@ import React from 'react'
 
 const Button = ({text}) => {
   return (
-    <button className='flex gap-1.5 | py-3 px-5 | bg-primary rounded-md '>
+    <button className='w-fit flex gap-1.5 | py-3 px-5 | bg-primary rounded-md '>
       <span className='font-semibold'>{text}</span>
       <img 
         className='w-6 h-6'

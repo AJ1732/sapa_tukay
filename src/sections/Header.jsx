@@ -4,7 +4,7 @@ import Hero from './Header/Hero'
 
 const Header = () => {
   return (
-    <header className='w-full | bg-bg-black  | '>
+    <header className='w-full | bg-bg-black text-white '>
       <div className=''>
         <Navbar />
         <hr />
