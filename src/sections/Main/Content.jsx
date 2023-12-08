@@ -2,7 +2,9 @@ import React from 'react'
 
 const Content = () => {
   return (
-    <div>Content</div>
+    <section className='py-16'>
+      Content
+    </section>
   )
 }
 

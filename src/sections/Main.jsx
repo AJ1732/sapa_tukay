@@ -4,10 +4,10 @@ import Content from './Main/Content'
 
 const Main = () => {
   return (
-    <div>
+    <main className='max-w-7xl m-auto px-8'>
       <Blog />
       <Content />
-    </div>
+    </main>
   )
 }
 

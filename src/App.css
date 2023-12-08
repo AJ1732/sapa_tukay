@@ -14,3 +14,7 @@
   font-family: "Inter", sans-serif;
 }
 
+ul li::marker {
+  content: url("./assets/icons/check.svg");
+}
+

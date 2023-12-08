@@ -1,0 +1,22 @@
+{
+  "left" : {
+    "heading" : "Boss I Greet Oh",
+    "description" : "Help me touch that boss way dey with ehn BF, Boss i greet oh... Na my guy Pablo with them scorpion and croc na ehn send me come meet you, make you give am:",
+    "image" : "https://s3-alpha-sig.figma.com/img/ec8f/178f/46b877507d3c8195b7722c0740079cab?Expires=1702857600&Signature=QJ-mVPIxehy3gnlW0RlkjBYvqGoCKCcKoZI-ruNnAH5R8or~WydSEOYXezKYcQLmRQKHy-6fF5BZt0NvJTHNlkhpTGBVovcHuv2SY6IH7cK3say75F5jmr2gwGkVcADoal0W6h1XyeqGssZf16Q~oQMxo2zV7AtGAPIkrwskGirUbx3FqUw88Q8epc6lurMnnoXPP68g9vIn5OaZXseXKp6IQsn2vqrsJFAKEn2UkLDk8Lnb6jUKOG5F2Ib0nARQ1UG80MbK6q~2saVGoGJncJX1eQuG2SyDXkBOffII6Q8wp3gEx6wvHHPcGw2jWyPpbVqE2v2tgXA1oibTjN8eIQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "list" : [
+      {"id": "1", "text" : "G² (Garri and groundnut)"},
+      {"id": "2", "text" : "Groccies"},
+      {"id": "3", "text" : "Cassava flecks"}
+    ]
+  },
+  "right" : {
+    "heading" : "Sapa² nice one nice one",
+    "description" : "Sapa is a state of Ahh God abeg, who we offend, nothing is too small  to save a life.",
+    "image" : "https://s3-alpha-sig.figma.com/img/5305/86ea/81efb9448be733d07c9da8dafad94362?Expires=1702857600&Signature=KCAGde2Sj1Ojfd7R83EEedRSiTWWk4aY8tkjYG3hcDtjTmwZBJtKN4GeG4I-ivC8k2iPTv78RC8tUaaIlfE8Ts8~bCV-56ZtmdhTPICei~og9kWVFYGjgvoCWJXt4Ewnl71CkQvccZTsrK1Xe8Mr91uvlpwytU38QGEybqog6WnfHE6V3eU5CO7o1V5Q14aSqqDpYMdzdH8bKYkxrW8rZfVqWy2EzbcVLvr2D5sXcMOiPR7gFRDeI88KiOhxA~GUrD7N4cU52S8kLf1MboZnthUEuA8Fp--PIKwiirU38Nj2z~32sEkls~KF1UkSdSQ~lsAK4KxuycTKxLgsozIDrQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "list" : [
+      {"id": "1", "text" : "Urgent tukay"},
+      {"id": "2", "text" : "Garri"},
+      {"id": "3", "text" : "Drop location"}
+    ]
+  }
+}
